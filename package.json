@@ -1,0 +1,20 @@
+{
+  "name": "fe-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "doc": "gitbook serve",
+    "test": "gitbook serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MayaKaka/fe-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MayaKaka/fe-study/issues"
+  },
+  "homepage": "https://github.com/MayaKaka/fe-study#readme"
+}
